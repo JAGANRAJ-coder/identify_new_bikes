@@ -1,0 +1,59 @@
+15:24:30.410 [main] DEBUG testClass.TestCases - Screenshot Taken : selectHonda.png
+15:24:50.195 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchBikeDetails.png
+15:25:46.874 [main] DEBUG pageObjects.UpcomingBikes - *** Navigated to the Used Cars ***
+15:25:47.054 [main] DEBUG testClass.TestCases - Screenshot Taken : moveToUsedCars.png
+15:25:47.428 [main] DEBUG testClass.TestCases - Screenshot Taken : findTopCars.png
+15:25:50.796 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchTopCars.png
+15:25:50.989 [main] DEBUG testClass.TestCases - Screenshot Taken : backToHomePage.png
+15:26:10.652 [main] DEBUG testClass.TestCases - Screenshot Taken : logIn.png
+15:26:22.377 [main] DEBUG testClass.TestCases - Screenshot Taken : invalidLogIn.png
+15:26:30.532 [main] DEBUG testClass.TestCases - Driver quits * ALL WINDOW *
+15:29:41.687 [main] DEBUG testClass.TestCases - Driver set to Chrome
+15:30:24.003 [main] DEBUG testClass.TestCases - APP URL : https://www.zigwheels.com/
+15:30:24.138 [main] DEBUG testClass.TestCases - Implicit Wait : 15 secs
+15:30:29.413 [main] DEBUG pageObjects.HomePage - *** Hovered on the New Bikes Section ***
+15:30:29.744 [main] DEBUG testClass.TestCases - Screenshot Taken : goToUpcomingBikes.png
+15:31:05.006 [main] DEBUG pageObjects.HomePage - *** Clicked the Upcoming Bikes Section ***
+15:31:47.636 [main] DEBUG pageObjects.UpcomingBikes - *** Selected the Honda as manufacturer ***
+15:31:47.782 [main] DEBUG testClass.TestCases - Screenshot Taken : selectHonda.png
+15:31:51.857 [main] DEBUG pageObjects.UpcomingBikes - *** Clicked on the read more button ***
+15:31:51.866 [main] DEBUG pageObjects.UpcomingBikes - *** Scrolled Down to the list ***
+15:31:51.992 [main] DEBUG testClass.TestCases - Screenshot Taken : showBikes.png
+15:32:01.444 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchBikeDetails.png
+15:32:18.956 [main] DEBUG pageObjects.UpcomingBikes - *** Navigated to the Used Cars ***
+15:32:19.291 [main] DEBUG testClass.TestCases - Screenshot Taken : moveToUsedCars.png
+15:32:49.734 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchTopCars.png
+15:32:50.054 [main] DEBUG testClass.TestCases - Screenshot Taken : backToHomePage.png
+15:33:05.632 [main] DEBUG testClass.TestCases - Screenshot Taken : logIn.png
+15:33:20.704 [main] DEBUG testClass.TestCases - Driver quits * ALL WINDOW *
+15:33:24.594 [main] DEBUG testClass.TestCases - Driver set to Edge
+15:34:15.813 [main] DEBUG testClass.TestCases - APP URL : https://www.zigwheels.com/
+15:34:15.902 [main] DEBUG testClass.TestCases - Implicit Wait : 15 secs
+15:34:21.072 [main] DEBUG pageObjects.HomePage - *** Hovered on the New Bikes Section ***
+15:34:21.195 [main] DEBUG testClass.TestCases - Screenshot Taken : goToUpcomingBikes.png
+15:35:03.950 [main] DEBUG pageObjects.HomePage - *** Clicked the Upcoming Bikes Section ***
+15:35:35.783 [main] DEBUG pageObjects.UpcomingBikes - *** Selected the Honda as manufacturer ***
+15:35:35.970 [main] DEBUG testClass.TestCases - Screenshot Taken : selectHonda.png
+15:35:40.033 [main] DEBUG pageObjects.UpcomingBikes - *** Clicked on the read more button ***
+15:35:40.041 [main] DEBUG pageObjects.UpcomingBikes - *** Scrolled Down to the list ***
+15:35:40.162 [main] DEBUG testClass.TestCases - Screenshot Taken : showBikes.png
+15:35:49.538 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchBikeDetails.png
+15:36:05.725 [main] DEBUG pageObjects.UpcomingBikes - *** Navigated to the Used Cars ***
+15:36:06.054 [main] DEBUG testClass.TestCases - Screenshot Taken : moveToUsedCars.png
+15:36:36.475 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchTopCars.png
+15:36:36.789 [main] DEBUG testClass.TestCases - Screenshot Taken : backToHomePage.png
+15:36:50.177 [main] DEBUG testClass.TestCases - Screenshot Taken : logIn.png
+15:37:01.864 [main] DEBUG testClass.TestCases - Screenshot Taken : invalidLogIn.png
+15:37:10.264 [main] DEBUG testClass.TestCases - Driver quits * ALL WINDOW *
+15:40:46.125 [main] DEBUG testClass.TestCases - Driver set to Chrome
+15:40:50.585 [main] DEBUG testClass.TestCases - APP URL : https://www.zigwheels.com/
+15:40:50.712 [main] DEBUG testClass.TestCases - Implicit Wait : 15 secs
+15:40:55.970 [main] DEBUG pageObjects.HomePage - *** Hovered on the New Bikes Section ***
+15:40:56.321 [main] DEBUG testClass.TestCases - Screenshot Taken : goToUpcomingBikes.png
+15:40:57.986 [main] DEBUG pageObjects.HomePage - *** Clicked the Upcoming Bikes Section ***
+15:41:01.001 [main] DEBUG pageObjects.UpcomingBikes - *** Selected the Honda as manufacturer ***
+15:41:01.147 [main] DEBUG testClass.TestCases - Screenshot Taken : selectHonda.png
+15:41:05.203 [main] DEBUG pageObjects.UpcomingBikes - *** Clicked on the read more button ***
+15:41:05.211 [main] DEBUG pageObjects.UpcomingBikes - *** Scrolled Down to the list ***
+15:41:05.330 [main] DEBUG testClass.TestCases - Screenshot Taken : showBikes.png
+15:41:14.756 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchBikeDetails.png

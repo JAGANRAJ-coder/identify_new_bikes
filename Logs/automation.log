@@ -1,0 +1,18 @@
+15:11:34.908 [main] DEBUG testClass.TestCases - Implicit Wait : 15 secs
+15:11:40.072 [main] DEBUG pageObjects.HomePage - *** Hovered on the New Bikes Section ***
+15:11:40.361 [main] DEBUG testClass.TestCases - Screenshot Taken : goToUpcomingBikes.png
+15:12:06.666 [main] DEBUG pageObjects.HomePage - *** Clicked the Upcoming Bikes Section ***
+15:12:11.615 [main] DEBUG pageObjects.UpcomingBikes - *** Selected the Honda as manufacturer ***
+15:12:11.746 [main] DEBUG testClass.TestCases - Screenshot Taken : selectHonda.png
+15:12:15.812 [main] DEBUG pageObjects.UpcomingBikes - *** Clicked on the read more button ***
+15:12:15.821 [main] DEBUG pageObjects.UpcomingBikes - *** Scrolled Down to the list ***
+15:12:15.955 [main] DEBUG testClass.TestCases - Screenshot Taken : showBikes.png
+15:12:25.441 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchBikeDetails.png
+15:13:20.208 [main] DEBUG pageObjects.UpcomingBikes - *** Navigated to the Used Cars ***
+15:13:20.339 [main] DEBUG testClass.TestCases - Screenshot Taken : moveToUsedCars.png
+15:13:20.561 [main] DEBUG testClass.TestCases - Screenshot Taken : findTopCars.png
+15:13:23.849 [main] DEBUG testClass.TestCases - Screenshot Taken : fetchTopCars.png
+15:13:24.005 [main] DEBUG testClass.TestCases - Screenshot Taken : backToHomePage.png
+15:13:32.727 [main] DEBUG testClass.TestCases - Screenshot Taken : logIn.png
+15:13:44.333 [main] DEBUG testClass.TestCases - Screenshot Taken : invalidLogIn.png
+15:13:52.543 [main] DEBUG testClass.TestCases - Driver quits * ALL WINDOW *
